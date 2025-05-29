@@ -1,6 +1,6 @@
-# Base template for a split/combined exercise and diet tracker written in typescript
+# Base template for a split/combined exercise and diet tracker written in TypeScript
 
-## Designed to run completely standalone, and communicate with a backend via a external (or co-located but separate) API.
+## Designed to run completely standalone, and communicate with a back-end via an external (or co-located but separate) API.
 
 ### **Needs**
 
