@@ -4,6 +4,12 @@
 
 ### **Needs**
 
-- Data persistence
+- Functionality for the charts on the Weight page
 
-- Functionality for above ^
+## Installation
+
+- run `npm install` then run `npm run dev` and browse to the exposed host.
+
+If you run into any issues with dependency conflicts:
+
+- run `npm install --legacy-peer-deps` instead and then run `npm run dev`, then browse to the exposed host as normal.
